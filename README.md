@@ -111,6 +111,13 @@ This program is based off a popular mobile game called Jetpack Joyride, and join
 
 # What you see in-game
 
+<img alt="Welcome Screen" src="https://github.com/avidave/jetpack-joyride/blob/master/JetpackJoyrideCPT-Main/images/screenshots/Welcome_screen.png">
+<img alt="Age Screen" src="https://github.com/avidave/jetpack-joyride/blob/master/JetpackJoyrideCPT-Main/images/screenshots/Age_screen.png">
+<img alt="Username" src="https://github.com/avidave/jetpack-joyride/blob/master/JetpackJoyrideCPT-Main/images/screenshots/Username.png">
+<img alt="Main Menu" src="https://github.com/avidave/jetpack-joyride/blob/master/JetpackJoyrideCPT-Main/images/screenshots/Main_menu.png">
+<img alt="Skin Locker" src="https://github.com/avidave/jetpack-joyride/blob/master/JetpackJoyrideCPT-Main/images/screenshots/Skin_locker.png">
+<img alt="Gameplay" src="https://github.com/avidave/jetpack-joyride/blob/master/JetpackJoyrideCPT-Main/images/screenshots/Gameplay.png">
+
 **GitHub Pages** is a free and easy way to create a website using the code that lives in your GitHub repositories. You can use GitHub Pages to build a portfolio of your work, create a personal website, or share a fun project that you coded with the world. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
 
 [Learn more about GitHub Pages](https://pages.github.com/)
@@ -125,7 +132,7 @@ Let's get started! To update this repository’s name, click the `Settings` tab 
 
 Under the **Repository Name** heading, type: `username.github.io`, where username is your username on GitHub. Then click **Rename**—and that’s it. When you’re done, click your repository name or browser’s back button to return to this page.
 
-<img width="1039" alt="rename_screenshot" src="https://user-images.githubusercontent.com/18093541/63129466-956cc580-bf85-11e9-92d8-b028dd483fa5.png">
+
 
 Once you click **Rename**, your website will automatically be published at: https://your-username.github.io/. The HTML file—called `index.html`—is rendered as the home page and you'll be making changes to this file in the next step.
 
