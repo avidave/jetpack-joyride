@@ -112,26 +112,31 @@ This program is based off a popular mobile game called Jetpack Joyride, and join
 # What you see in-game
 
 ## Welcome Screen
-This window pops up for a couple seconds before the any of the game prompts.
+This window pops up for a couple seconds before any of the game prompts.
+
 <img alt="Welcome Screen" src="https://github.com/avidave/jetpack-joyride/blob/master/JetpackJoyrideCPT-Main/images/screenshots/Welcome_screen.png">
 
 ## Age Screen
-This window prompts the user for their age (any age above or below a certain range will barr access to teh rest of the game, or ask the user to renenter their age).
+This window prompts the user for their age (any age above or below a certain range will barr access to the rest of the game, or ask the user to renenter their age).
+
 <img alt="Age Screen" src="https://github.com/avidave/jetpack-joyride/blob/master/JetpackJoyrideCPT-Main/images/screenshots/Age_screen.png">
 
 ## Name Screen
 
-This window asks the user for a username - this username will be used during a 'Game Over' prompt to display the player's high score.
+This window asks the user for a username - this username will be used during a **Game Over** prompt to display the player's high score.
+
 <img alt="Username" src="https://github.com/avidave/jetpack-joyride/blob/master/JetpackJoyrideCPT-Main/images/screenshots/Username.png">
 
 ## Main Menu
 
-This is the main menu of the game. You can immediately play the game, change the player costume (to something other than the default costume), change your name, or exit the game.
+This is the **Main Menu** of the game. You can immediately play the game, change the player costume (to something other than the default costume), change your name, or exit the game.
+
 <img alt="Main Menu" src="https://github.com/avidave/jetpack-joyride/blob/master/JetpackJoyrideCPT-Main/images/screenshots/Main_menu.png">
 
 ## Skin Locker
 
 This is the aforementioned prompt that allows the user to change the player costume.
+
 <img alt="Skin Locker" src="https://github.com/avidave/jetpack-joyride/blob/master/JetpackJoyrideCPT-Main/images/screenshots/Skin_locker.png">
 
 ## Gameplay
@@ -140,5 +145,6 @@ This is the aforementioned prompt that allows the user to change the player cost
 
 ## Game Over
 
-The "Game Over" window displays the user 's high score (through distance travelled) and allows the user to exit the window and return to the main menu by clicking one of the four options. Each options will change the background colour of the main menu.
+The **Game Over** window displays the user's high score (through distance travelled) and allows the user to exit the window and return to the main menu by clicking one of the four options. Each options will change the background colour of the **Main Menu**.
+
 <img alt="Game Over" src="https://github.com/avidave/jetpack-joyride/blob/master/JetpackJoyrideCPT-Main/images/screenshots/Game_over.png">
